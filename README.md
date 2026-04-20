@@ -11,5 +11,5 @@
   <a href = "mailto:gustavoroger130@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/roger-andrade-b967b9404/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-![Snake animation](https://github.com/RogerGustavoA/RogerGustavoA/blob/output/github-contribution-grid-snake.svg)
+
 </div>
